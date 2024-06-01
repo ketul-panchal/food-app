@@ -33,6 +33,10 @@ Laravel, MySQL.
 
 this foder is our app front-end.
 
+open this file in your android studio and chnage the base-url. 
+
+to 
+
 ## 🛠 Technology used in front-end panel are..
 Flutter.
 
