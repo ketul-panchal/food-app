@@ -33,7 +33,7 @@ Laravel, MySQL.
 
 this foder is our app front-end.
 
-open this file in your android studio and chnage the base-url. 
+open this file in your android studio and chnage the base-url write your base url Ex. http://10.2.2:8000. 
 
 ## 🛠 Technology used in front-end panel are..
 Flutter.
