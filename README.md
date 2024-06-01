@@ -29,3 +29,10 @@ open shoping-app folder
 ## 🛠 Technology used in Admin panel are..
 Laravel, MySQL.
 
+## Food App 
+
+this foder is our app front-end.
+
+## 🛠 Technology used in front-end panel are..
+Flutter.
+
