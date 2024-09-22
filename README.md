@@ -39,8 +39,4 @@ open this file in your android studio and chnage the base-url write your base ur
 Flutter.
 
 
-## Screenshots
-
-![App Screenshot](./screenshot/image 1_page-0001.jpg)
-
 
