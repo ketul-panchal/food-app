@@ -41,6 +41,6 @@ Flutter.
 
 ## Screenshots
 
-![App Screenshot](/screenshot/image 1_page-0001.jpg)
+![App Screenshot](./screenshot/image 1_page-0001.jpg)
 
 
