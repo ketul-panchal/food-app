@@ -38,6 +38,6 @@ open this file in your android studio and chnage the base-url write your base ur
 ## 🛠 Technology used in front-end panel are..
 Flutter.
 
-![screenshots](https://github.com/ketul-panchal/food-app/blob/main/image2_page-0001.jpg?raw=true)
+![screenshots](https://github.com/ketul-panchal/food-app/blob/main/screenshots/image%201_page-0001.jpg)
 
 
