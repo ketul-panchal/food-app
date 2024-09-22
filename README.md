@@ -40,4 +40,6 @@ Flutter.
 
 ![screenshots](https://github.com/ketul-panchal/food-app/blob/main/screenshots/image%201_page-0001.jpg)
 
+![screenshots](https://github.com/ketul-panchal/food-app/blob/main/screenshots/image2_page-0001.jpg)
+
 
